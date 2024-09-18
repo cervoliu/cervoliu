@@ -1,6 +1,5 @@
 - Hi there, I’m cervoliu.
 - I'm currently an MSE student at School of Software, Tsinghua University.
-- Before that, I got my bachelor degree at Department of Computer Science, Harbin Institute of Technology.
 - I used to have [a CSDN blog](https://blog.csdn.net/lyd_7_29) when I was a OIer, but now I plan to move to [xlog](https://cervol.xlog.app/).
 
 <!---
